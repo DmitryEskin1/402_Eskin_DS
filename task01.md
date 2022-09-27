@@ -33,8 +33,8 @@ andrey    | 2021.09.03 16:52
 * Написать PHP-скрипт task1.php, выводящий на экран инструкцию к игре, которую вы будете разрабатывать (описание игры для вашего варианта в файле specification_01_nn.md).
 
 ### Отправка задания на проверку
-* Добавить файл README_logger.md с инструкцией по запуску командного файла self-logger.bat или self-logger.sh.
 * Выполнить коммит в ветке Task01 (в папке Task01 должны быть файлы: README.md, README_logger.md, self-logger.bat/self-logger.sh и task1.php).
+* Добавить файл README_logger.md с инструкцией по запуску командного файла self-logger.bat или self-logger.sh.
 * Отправить созданный коммит в "форкнутый" репозиторий на GitHub (`git push origin`).
 * Сделать Pull Request для добавления ветки Task01 из репозитория в вашем профиле в https://github.com/andpop-mrsu.
 * Задание будет считаться принятым после закрытия Pull Request в https://github.com/andpop-mrsu.
